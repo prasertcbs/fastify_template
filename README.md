@@ -1,1 +1,1 @@
-# smart classroom lighting system with Philips Hue
+# fastify + bootstrap 5 template
